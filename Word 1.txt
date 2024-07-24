@@ -1,0 +1,28 @@
+Jenis jenis paragraph
+1. Align Left (Ctrl + L)
+2. Center (CTRL + e)
+3. Align Right (CTRL + R)
+4. Justify  (Ctrl + J)
+
+Change Case
+====
+Sentence case fungsiinya untuk mengubah huruf pertama tiap kalimat ke kapital
+
+lowercase fungsinya untuk mengubah semua huruf ke kecil terhadap text yang sudah di seleksi
+
+UPPERCASE fungsinya kebalikan dari lowercase, yakni mengubah semua huruf ke kapital terhadap text yang di seleksi
+
+Capitalize Each Word fungsinya untuk mengubah huruf pertama tiap kata ke kapital dan huruf lainnya kecil
+
+Toggle clase digunakan untuk membuat awal huruf menjadi lowercase sedangkan sisanya uppercase
+
+Shortcut penting: Change case : Shift + F3
+Font: CTRL + D
+
+Bagian Spacing
+- Condensed (Tulisan lebih rapat)
+- Expand (Tulisan lebih renggang)
+
+Position": Untuk mengatur letak huruf
+- Raised (tulisan naik) 
+- Lowered (Tulisan turun)

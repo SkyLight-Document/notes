@@ -1,0 +1,17 @@
+Catatan
+=======
+Expanded berfungsi untuk memperlebar Jarak spasi antar huruf (tulisan berjarak)
+condensed berfungsi untuk memperkecil Jarak spasi antar huruf (tulisan merapat)
+columns digunakan untuk menentukan jumlah kolom pada saat penulisan
+Dropcap membuat huruf pertama paragraph menjadi lebih besar
+Header berada di bagian atas doluen untuk membuat kepala surat
+Footer berada di bagian Bawah dokumen untuk membuat halaman, catatan kaki, dll.
+
+Ms. Excel berupa aplikasi pengolah angka dengan filetype .xlsx
+Jumlah kolom excel ada = 16384
+Kolokm Baris excel ada = 1.048.576
+
+Cell adalah pertemuan pertemuan antara baris dan kolom
+range adalah gabungan dari beberapa cell
+Sheet adalah lembar kerja Ms. Excel
+Simbol mata uang dibuat dari format cells dengan opsi currency atau accounting (Shortcut CTRL + 1)

@@ -1,0 +1,14 @@
+KISI KISI UJIAN QUIS
+SEM GANJIL
+KELAS: X SMA
+
+1. Fungsi aplikasi Microsoft word
+2. Filetype Microsoft word (docx)
+3. Fungsi subscript dan superscript pada word
+4. Fungsi expanded and condensed di dalam word
+5. Fungsi column dan dropcap paad word
+6. Fungsi header dan footer
+7. Fungsi aplikasi Microsoft excel
+8. Filetype Excel (.xlsx)
+9. Pengertian ell, range, sheet, didalam excel
+10. Membuat symbol mata uang didalam Excel

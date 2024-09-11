@@ -1,0 +1,13 @@
+KISI KISI UJIAN MID
+SEM: GANJIL
+KELAS: X SMA
+Format simbol mata uang di Excel
+Pengertian Cell
+Pengertian Statistik
+Pengertian Merge Cell
+Fungsi Watermark
+Fungsi Header/Footer
+Pengertian range
+Surat massal (mailmerge)
+Fungsi change case, sub script, super script
+Filetype word dan excel
